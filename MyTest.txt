@@ -1,2 +1,3 @@
 Adding garbage characters in this to test conflicts.
 Local merge conflict in MyTest	
+Doing some merge conflicts for git pull
