@@ -1,1 +1,2 @@
 Adding garbage characters in this to test conflicts.
+Doing some merge conflicts for git pull
